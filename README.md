@@ -37,4 +37,4 @@ $ npm start
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Firebase] (https://firebase.google.com/)
+- [Firebase](https://firebase.google.com/)
