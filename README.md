@@ -12,6 +12,7 @@
 
 ###	🚧  🚀 Em construção...  🚧
 
+### 🚀 Sobre
 
 <p>O público pode adicionar sua dúvida sobre o conteúdo, na respectiva sala e votar nas perguntas adicionadas que o participante desejaria que fosse respondida. O administrador da sala irá visualizar quais as perguntas sobre o conteúdo e responder em ordem de importância.</p>
 
