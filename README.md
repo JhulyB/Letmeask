@@ -29,6 +29,7 @@ $ npm install
 
 # Execute a aplicação
 $ npm start
+```
 
 ### Tecnologias
 
