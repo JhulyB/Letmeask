@@ -5,8 +5,8 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#tecnologias">Executar o projeto</a> • 
- <a href="#contribuicao">Tecnologias</a> 
+ <a href="#executar">Executar o projeto</a> • 
+ <a href="#tecnologias">Tecnologias</a> 
 </p>
 
 
